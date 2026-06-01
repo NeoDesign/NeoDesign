@@ -62,4 +62,8 @@ I'm especially interested in making AI systems:
 
 Because AI is only impressive when it survives contact with reality.
 
+---
+
+## My GitHub Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=NeoDesign&theme=github-dark-blue&border_radius=7&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
